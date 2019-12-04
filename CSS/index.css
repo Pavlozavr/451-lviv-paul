@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+header .logo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3 rem;
+    text-align: center;
+}
+
+header nav.menu {
+    display: flex;
+}
